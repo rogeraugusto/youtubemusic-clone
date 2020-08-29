@@ -1,0 +1,334 @@
+{
+  "recommendations": [
+    {
+      "id": "1",
+      "title": "Recommendation title",
+      "albums": [
+        {
+          "id": "1",
+          "title": "Album Title",
+          "description": "Album Description",
+          "text": "Optional Album text",
+          "type": "mix or playlist",
+          "artwork": {
+            "url": "Album cover url",
+            "shape": "square or rounded"
+          },
+          "tracks": [
+            {
+              "id": "1",
+              "title": "Track Title",
+              "artist": "Track Artist",
+              "url": "Track url",
+              "artwork": "Track artwork url",
+              "duration": 245.40
+            },
+            {
+              "id": "2",
+              "title": "Track Title",
+              "artist": "Track Artist",
+              "url": "Track url",
+              "artwork": "Track artwork url",
+              "duration": 245.40
+            },
+            {
+              "id": "3",
+              "title": "Track Title",
+              "artist": "Track Artist",
+              "url": "Track url",
+              "artwork": "Track artwork url",
+              "duration": 245.40
+            },
+            {
+              "id": "4",
+              "title": "Track Title",
+              "artist": "Track Artist",
+              "url": "Track url",
+              "artwork": "Track artwork url",
+              "duration": 245.40
+            },
+            {
+              "id": "5",
+              "title": "Track Title",
+              "artist": "Track Artist",
+              "url": "Track url",
+              "artwork": "Track artwork url",
+              "duration": 245.40
+            }
+          ]
+        },
+        {
+          "id": "2",
+          "title": "Album Title",
+          "description": "Album Description",
+          "text": "Optional Album text",
+          "type": "mix or playlist",
+          "artwork": {
+            "url": "Album cover url",
+            "shape": "square or rounded"
+          },
+          "tracks": [
+            {
+              "id": "6",
+              "title": "Track Title",
+              "artist": "Track Artist",
+              "url": "Track url",
+              "artwork": "Track artwork url",
+              "duration": 245.40
+            },
+            {
+              "id": "7",
+              "title": "Track Title",
+              "artist": "Track Artist",
+              "url": "Track url",
+              "artwork": "Track artwork url",
+              "duration": 245.40
+            },
+            {
+              "id": "8",
+              "title": "Track Title",
+              "artist": "Track Artist",
+              "url": "Track url",
+              "artwork": "Track artwork url",
+              "duration": 245.40
+            },
+            {
+              "id": "9",
+              "title": "Track Title",
+              "artist": "Track Artist",
+              "url": "Track url",
+              "artwork": "Track artwork url",
+              "duration": 245.40
+            },
+            {
+              "id": "10",
+              "title": "Track Title",
+              "artist": "Track Artist",
+              "url": "Track url",
+              "artwork": "Track artwork url",
+              "duration": 245.40
+            }
+          ]
+        },
+        {
+          "id": "3",
+          "title": "Album Title",
+          "description": "Album Description",
+          "text": "Optional Album text",
+          "type": "mix or playlist",
+          "artwork": {
+            "url": "Album cover url",
+            "shape": "square or rounded"
+          },
+          "tracks": [
+            {
+              "id": "11",
+              "title": "Track Title",
+              "artist": "Track Artist",
+              "url": "Track url",
+              "artwork": "Track artwork url",
+              "duration": 245.40
+            },
+            {
+              "id": "12",
+              "title": "Track Title",
+              "artist": "Track Artist",
+              "url": "Track url",
+              "artwork": "Track artwork url",
+              "duration": 245.40
+            },
+            {
+              "id": "13",
+              "title": "Track Title",
+              "artist": "Track Artist",
+              "url": "Track url",
+              "artwork": "Track artwork url",
+              "duration": 245.40
+            },
+            {
+              "id": "14",
+              "title": "Track Title",
+              "artist": "Track Artist",
+              "url": "Track url",
+              "artwork": "Track artwork url",
+              "duration": 245.40
+            },
+            {
+              "id": "15",
+              "title": "Track Title",
+              "artist": "Track Artist",
+              "url": "Track url",
+              "artwork": "Track artwork url",
+              "duration": 245.40
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Recommendation title",
+      "albums": [
+        {
+          "id": "4",
+          "title": "Album Title",
+          "description": "Album Description",
+          "text": "Optional Album text",
+          "type": "mix or playlist",
+          "artwork": {
+            "url": "Album cover url",
+            "shape": "square or rounded"
+          },
+          "tracks": [
+            {
+              "id": "16",
+              "title": "Track Title",
+              "artist": "Track Artist",
+              "url": "Track url",
+              "artwork": "Track artwork url",
+              "duration": 245.40
+            },
+            {
+              "id": "17",
+              "title": "Track Title",
+              "artist": "Track Artist",
+              "url": "Track url",
+              "artwork": "Track artwork url",
+              "duration": 245.40
+            },
+            {
+              "id": "18",
+              "title": "Track Title",
+              "artist": "Track Artist",
+              "url": "Track url",
+              "artwork": "Track artwork url",
+              "duration": 245.40
+            },
+            {
+              "id": "19",
+              "title": "Track Title",
+              "artist": "Track Artist",
+              "url": "Track url",
+              "artwork": "Track artwork url",
+              "duration": 245.40
+            },
+            {
+              "id": "20",
+              "title": "Track Title",
+              "artist": "Track Artist",
+              "url": "Track url",
+              "artwork": "Track artwork url",
+              "duration": 245.40
+            }
+          ]
+        },
+        {
+          "id": "5",
+          "title": "Album Title",
+          "description": "Album Description",
+          "text": "Optional Album text",
+          "type": "mix or playlist",
+          "artwork": {
+            "url": "Album cover url",
+            "shape": "square or rounded"
+          },
+          "tracks": [
+            {
+              "id": "21",
+              "title": "Track Title",
+              "artist": "Track Artist",
+              "url": "Track url",
+              "artwork": "Track artwork url",
+              "duration": 245.40
+            },
+            {
+              "id": "22",
+              "title": "Track Title",
+              "artist": "Track Artist",
+              "url": "Track url",
+              "artwork": "Track artwork url",
+              "duration": 245.40
+            },
+            {
+              "id": "23",
+              "title": "Track Title",
+              "artist": "Track Artist",
+              "url": "Track url",
+              "artwork": "Track artwork url",
+              "duration": 245.40
+            },
+            {
+              "id": "24",
+              "title": "Track Title",
+              "artist": "Track Artist",
+              "url": "Track url",
+              "artwork": "Track artwork url",
+              "duration": 245.40
+            },
+            {
+              "id": "25",
+              "title": "Track Title",
+              "artist": "Track Artist",
+              "url": "Track url",
+              "artwork": "Track artwork url",
+              "duration": 245.40
+            }
+          ]
+        },
+        {
+          "id": "6",
+          "title": "Album Title",
+          "description": "Album Description",
+          "text": "Optional Album text",
+          "type": "mix or playlist",
+          "artwork": {
+            "url": "Album cover url",
+            "shape": "square or rounded"
+          },
+          "tracks": [
+            {
+              "id": "26",
+              "title": "Track Title",
+              "artist": "Track Artist",
+              "url": "Track url",
+              "artwork": "Track artwork url",
+              "duration": 245.40
+            },
+            {
+              "id": "27",
+              "title": "Track Title",
+              "artist": "Track Artist",
+              "url": "Track url",
+              "artwork": "Track artwork url",
+              "duration": 245.40
+            },
+            {
+              "id": "28",
+              "title": "Track Title",
+              "artist": "Track Artist",
+              "url": "Track url",
+              "artwork": "Track artwork url",
+              "duration": 245.40
+            },
+            {
+              "id": "29",
+              "title": "Track Title",
+              "artist": "Track Artist",
+              "url": "Track url",
+              "artwork": "Track artwork url",
+              "duration": 245.40
+            },
+            {
+              "id": "30",
+              "title": "Track Title",
+              "artist": "Track Artist",
+              "url": "Track url",
+              "artwork": "Track artwork url",
+              "duration": 245.40
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
